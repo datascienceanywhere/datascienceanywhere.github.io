@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: logo_height.jpg
+  image: logo_height.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>datascience Anywhere</p>
