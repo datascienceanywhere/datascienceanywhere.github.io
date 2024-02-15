@@ -1,12 +1,11 @@
 ---
 layout: distill
-title: Getting Started: The OpenAI Python Library
+title: Getting Started - The OpenAI Python Library
 description: an example of a distill-style blog post and main elements
 tags: distill formatting
 giscus_comments: true
 date: 2024-02-15
 featured: true
-
 
 toc:
   - name: OpenAI Access and API Key
