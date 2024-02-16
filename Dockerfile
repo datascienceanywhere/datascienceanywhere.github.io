@@ -10,6 +10,7 @@ RUN apt-get update -y && apt-get install -y --no-install-recommends \
     build-essential \
     zlib1g-dev \
     jupyter-nbconvert \
+    liblapacke-dev \
     inotify-tools procps && \
     apt-get clean && rm -rf /var/lib/apt/lists/* /var/cache/apt/archives/*
 
