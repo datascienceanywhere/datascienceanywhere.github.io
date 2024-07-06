@@ -1,3 +1,22 @@
-baseURL: https://example.org/
+baseURL: https://datascienceanywhere.github.io
 languageCode: en-us
-title: My New Hugo Site
+title: datascience Anywhere
+theme: hextra
+author:
+  email: "datascienceanywhere@gmail.com"
+  name: "Anywhere Solutions"
+  location: "Hyderabad"
+  youtube: "https://youtube.com/@datascienceanywhere"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 100
+
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 200
+
